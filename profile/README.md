@@ -13,9 +13,12 @@ We have a wide range of specialties with above-average seniority in e-commerce p
 ### About our web development
 For us, web development starts with independent advice. For our senior developers, customization is the ultimate challenge.
 
-### Hiring
+### We are hiring!
 
-We are hiring! Feel free to check <a href="https://www.linkedin.com/company/enrise/jobs/" target="_blank">our vacancies</a> and experience what it is like to never work for a boss again (⌐■_■).
+Check out any of the jobs below and experience what it is like to never work for a boss again (⌐■_■).
+
+<!-- JOB-LIST:START -->
+<!-- JOB-LIST:END -->
 
 ### Contact us
 
