@@ -19,6 +19,7 @@ jobs:
           committer_email: "jobs-post-bot@enrise.com"
           feed_list: "https://enrise.com/jobs.rss.xml"
           readme_path: "profile/README.md"
+          max_post_count: 20
   update-readme-with-blog:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
