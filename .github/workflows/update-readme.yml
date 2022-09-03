@@ -16,16 +16,17 @@ jobs:
         with:
           comment_tag_name: "JOB-LIST"
           commit_message: "Updated with the latest jobs"
-          committer_email: "blog-post-bot@enrise.com"
+          committer_email: "jobs-post-bot@enrise.com"
           feed_list: "https://enrisecom-jobsrssfeed.gtsb.io/jobs.rss.xml"
           readme_path: "profile/README.md"
-  # update-readme-with-blog:
-  #   name: Update README with latest blog posts
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/checkout@v2
-  #     - uses: gautamkrishnar/blog-post-workflow@master
-  #       with:
-  #         committer_email: "blog-post-bot@enrise.com"
-  #         feed_list: "https://enrisecom-jobsrssfeed.gtsb.io/posts.rss.xml"
-  #         readme_path: "profile/READMEmd"
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "POST-LIST"
+          committer_email: "blog-post-bot@enrise.com"
+          feed_list: "https://enrisecom-jobsrssfeed.gtsb.io/posts.rss.xml"
+          readme_path: "profile/README.md"

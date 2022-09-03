@@ -25,6 +25,13 @@ Check out any of the jobs below and experience what it is like to never work for
 - [Backend developer - medior - 36-40 uur](https://jobs.enrise.com/backend-developer)
 <!-- JOB-LIST:END -->
 
+### Blog
+
+Read our latest blog posts.
+
+<!-- POST-LIST:START -->
+<!-- POST-LIST:END -->
+
 ### Contact us
 
 Find us on <a href="https://www.linkedin.com/company/enrise/" target="_blank">LinkedIn</a>, <a href="https://enrise.com" target="_blank">Enrise.com</a> or talk to us at one of the various meetups and conferences we attend when possible. You will recoginize us by our Enrise yellow shirts!
