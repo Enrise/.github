@@ -17,7 +17,7 @@ jobs:
           comment_tag_name: "JOB-LIST"
           commit_message: "Updated with the latest jobs"
           committer_email: "jobs-post-bot@enrise.com"
-          feed_list: "https://enrisecom-jobsrssfeed.gtsb.io/jobs.rss.xml"
+          feed_list: "https://enrise.com/jobs.rss.xml"
           readme_path: "profile/README.md"
   update-readme-with-blog:
     name: Update README with latest blog posts
@@ -28,5 +28,5 @@ jobs:
         with:
           comment_tag_name: "POST-LIST"
           committer_email: "blog-post-bot@enrise.com"
-          feed_list: "https://enrisecom-jobsrssfeed.gtsb.io/posts.rss.xml"
+          feed_list: "https://enrise.com/posts.rss.xml"
           readme_path: "profile/README.md"
