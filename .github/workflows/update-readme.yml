@@ -15,7 +15,7 @@ jobs:
           commit_message: "Updated with the latest jobs"
           committer_email: "blog-post-bot@enrise.com"
           feed_list: "https://enrisecom-jobsrssfeed.gtsb.io/jobs.rss.xml"
-          readme_path: "profile/READMEmd"
+          readme_path: "profile/README.md"
   # update-readme-with-blog:
   #   name: Update README with latest blog posts
   #   runs-on: ubuntu-latest
