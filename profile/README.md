@@ -18,6 +18,11 @@ For us, web development starts with independent advice. For our senior developer
 Check out any of the jobs below and experience what it is like to never work for a boss again (⌐■_■).
 
 <!-- JOB-LIST:START -->
+- [Laravel developer - medior senior - 32-40 uur](https://jobs.enrise.com/laravel-developer-2)
+- [Frontend &lpar;web&rpar;app developer - medior senior - 32-40 uur](https://jobs.enrise.com/frontend-app-developer)
+- [Trainee backend developer - junior - 36-40 uur](https://jobs.enrise.com/junior-backend-developer-team-enigma/nl)
+- [Backend developer - senior - 36-40 uur](https://jobs.enrise.com/backend-developer-team-enigma/nl)
+- [Backend developer - medior - 36-40 uur](https://jobs.enrise.com/backend-developer)
 <!-- JOB-LIST:END -->
 
 ### Contact us
