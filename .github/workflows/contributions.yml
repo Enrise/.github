@@ -1,0 +1,27 @@
+name: Our open source contributions
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 0 1 * *' # monthly
+  workflow_dispatch:
+jobs:
+  collect:
+    name: collect contributions
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetch Docker image
+        run: docker pull jeroeng/ghcontributions:latest
+      - name: Do magic
+        run: |
+          curl -s -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/orgs/Enrise/members?per_page=100 \
+            | jq .[]?.login -r \
+            | while read name ; do
+                docker run --rm jeroeng/ghcontributions:latest python3 /app/generate_markdown.py $name -a
+              done \
+          >> $GITHUB_STEP_SUMMARY
