@@ -32,11 +32,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts.
 
 <!-- POST-LIST:START -->
+- [Trots op onze Award-winning klanten!](https://enrise.com/2022/09/trots-op-onze-award-winning-klanten/)
 - [Nee zeggen tegen een nieuwe opdracht?!?](https://enrise.com/2022/08/nee-zeggen/)
 - [Nieuw in de kennisbank: Longread over het MVP](https://enrise.com/2022/08/nieuw-in-de-kennisbank-longread-over-het-mvp/)
 - [Samen spelen, samen delen](https://enrise.com/2022/07/winst-bestemmingsplan/)
 - [Leesbare code, het kan en zo moeilijk is het echt niet](https://enrise.com/2022/07/leesbare-code-schrijven/)
-- [Enrise Summer Vibes dankzij onbeperkte vrije dagen pilot](https://enrise.com/2022/07/onbeperkte-vrije-dagen-pilot/)
 <!-- POST-LIST:END -->
 
 ### Contact us
