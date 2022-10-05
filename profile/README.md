@@ -31,11 +31,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts.
 
 <!-- POST-LIST:START -->
+- [Benieuwd wat jouw nieuwe IT-project gaat kosten?](https://enrise.com/2022/10/de-onafhankelijke-discovery-phase-van-enrise/)
 - [Nu te downloaden in de kennisbank: Laravel Longread](https://enrise.com/2022/09/nu-te-downloaden-in-de-kennisbank-laravel-longread/)
 - [Nieuwe aflevering! De Enrise Business Talks over API Management](https://enrise.com/2022/09/nieuwe-aflevering-de-enrise-business-talks-api-management/)
 - [Trots op onze Award-winning klanten!](https://enrise.com/2022/09/trots-op-onze-award-winning-klanten/)
 - [Nee zeggen tegen een nieuwe opdracht?!?](https://enrise.com/2022/08/nee-zeggen/)
-- [Nieuw in de kennisbank: Longread over het MVP](https://enrise.com/2022/08/nieuw-in-de-kennisbank-longread-over-het-mvp/)
 <!-- POST-LIST:END -->
 
 ### Contact us
