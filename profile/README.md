@@ -29,7 +29,7 @@ Check out any of the jobs below and experience what it is like to never work for
 
 ### Blog
 
-Read our latest blog posts.
+Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
 - [Waarom ieder bedrijf een maandelijkse architectuurmeeting moet houden](https://enrise.com/2022/10/waarom-ieder-bedrijf-een-maandelijkse-architectuurmeeting-moet-houden/)
