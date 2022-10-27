@@ -32,11 +32,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Laat je verrassen, geef je budget prijs](https://enrise.com/2022/10/budget-prijsgeven-laat-je-verrassen/)
 - [With great power comes great responsibility](https://enrise.com/2022/10/with-great-power-comes-great-responsibility/)
 - [Waarom ieder bedrijf een maandelijkse architectuurmeeting moet houden](https://enrise.com/2022/10/waarom-ieder-bedrijf-een-maandelijkse-architectuurmeeting-moet-houden/)
 - [Hackathon – Dutch Laravel Foundation!](https://enrise.com/2022/10/dlf-hackathon-2022-bij-enrise/)
 - [Benieuwd wat jouw nieuwe IT-project gaat kosten?](https://enrise.com/2022/10/de-onafhankelijke-discovery-phase-van-enrise/)
-- [Nu te downloaden in de kennisbank: Laravel Longread](https://enrise.com/2022/09/nu-te-downloaden-in-de-kennisbank-laravel-longread/)
 <!-- POST-LIST:END -->
 
 ### Contact us
