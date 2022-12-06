@@ -37,11 +37,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Partnerships om enthousiast van te worden](https://enrise.com/2022/12/partnerships-om-enthousiast-van-te-worden/)
 - [DDD, wat kan ik ermee?](https://enrise.com/2022/12/domain-driven-design/)
 - [Enrise in FONK150 Best Agencies 2022](https://enrise.com/2022/11/enrise-in-fonk150-best-agencies-2022/)
 - [Pilot onbeperkte vakantiedagen groot succes](https://enrise.com/2022/11/onbeperkte-vakantiedagen/)
 - [Beslissen met 60 man?!?](https://enrise.com/2022/11/beslissen-met-60-man/)
-- [Stappenplan naar een flexibel en schaalbaar IT-landschap](https://enrise.com/2022/11/stappenplan-naar-een-flexibel-en-schaalbaar-it-landschap/)
 <!-- POST-LIST:END -->
 
 ### Contact us
