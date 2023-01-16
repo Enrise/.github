@@ -37,11 +37,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Mijn switch van developer naar tester](https://enrise.com/2023/01/mijn-switch-van-developer-naar-tester/)
 - [Composable commerce: dit zijn de 7 belangrijkste valkuilen](https://enrise.com/2023/01/composable-commerce-dit-zijn-de-7-belangrijkste-valkuilen/)
 - [De kracht van kwetsbare feedback](https://enrise.com/2023/01/de-kracht-van-kwetsbare-feedback/)
 - [Checklist: de 4 voorwaarden voor succesvolle composable ecommerce](https://enrise.com/2023/01/checklist-de-4-voorwaarden-voor-succesvolle-composable-ecommerce/)
 - [Goed voornemen voor 2023: geef wat vaker feedback](https://enrise.com/2022/12/goed-voornemen-voor-2023-geef-wat-vaker-feedback/)
-- [WEBINAR: Composable Commerce, de nieuwe standaard in e-Commerce](https://enrise.com/2022/12/webinar-composable-commerce/)
 <!-- POST-LIST:END -->
 
 ### Contact us
