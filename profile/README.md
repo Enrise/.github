@@ -37,11 +37,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [GASPs zijn de sleutel tot het succesvol inzetten van Scrum](https://enrise.com/2023/01/gasps-zijn-de-sleutel-tot-het-succesvol-inzetten-van-scrum/)
 - [Hoe ik, ChatGPT, programmeurs kan helpen bij hun werk](https://enrise.com/2023/01/hoe-ik-chatgpt-programmeurs-kan-helpen-bij-hun-werk/)
 - [9 redenen waarom een slechte systeemkoppeling je geld kost](https://enrise.com/2023/01/9-redenen-waarom-een-slechte-systeemkoppeling-je-geld-kost/)
 - [Deze open source projecten steunen wij als Github Sponsor](https://enrise.com/2023/01/enrise-github-sponsor/)
 - [Mijn switch van developer naar tester](https://enrise.com/2023/01/mijn-switch-van-developer-naar-tester/)
-- [Composable commerce: dit zijn de 7 belangrijkste valkuilen](https://enrise.com/2023/01/composable-commerce-dit-zijn-de-7-belangrijkste-valkuilen/)
 <!-- POST-LIST:END -->
 
 ### Contact us
