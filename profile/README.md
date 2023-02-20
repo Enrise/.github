@@ -27,7 +27,7 @@ Check out any of the jobs below and experience what it is like to never work for
 - [Product Owner - medior senior - 32-40 uur](https://jobs.enrise.com/product-owner-team-enigma/nl)
 - [Product Owner - medior  senior - 32-40 uur](https://jobs.enrise.com/product-owner-team-phoenix)
 - [Backend developer - medior senior - 32-40 uur](https://jobs.enrise.com/backend-developer)
-- [Fullstack developer - senior - 36-40 uur](https://jobs.enrise.com/fullstack-developer-team-enigma)
+- [Fullstack developer - medior - 36-40 uur](https://jobs.enrise.com/fullstack-developer-team-enigma)
 - [Developer - senior - 32-40 uur](https://jobs.enrise.com/senior-developer)
 - [Laravel developer - medior senior - 32-40 uur](https://jobs.enrise.com/laravel-developer-2)
 - [Developer - junior medior - 32-40 uur](https://jobs.enrise.com/developer-team-craft)
