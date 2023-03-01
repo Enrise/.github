@@ -37,11 +37,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Pak deze 6 kansen en investeer nu in je E-commerceplatform](https://enrise.com/2023/03/pak-deze-6-kansen-en-investeer-nu-in-je-e-commerceplatform/)
 - [Laravel 10 liefdevol live](https://enrise.com/2023/02/laravel-10-liefdevol-live/)
 - [Expo is de kers op de React Native taart](https://enrise.com/2023/02/expo-is-de-kers-op-de-react-native-taart/)
 - [Terugkijken: Webinar Composable Commerce](https://enrise.com/2023/02/webinar-composable-commerce/)
 - [GASPs zijn de sleutel tot het succesvol inzetten van Scrum](https://enrise.com/2023/01/gasps-zijn-de-sleutel-tot-het-succesvol-inzetten-van-scrum/)
-- [Hoe ik, ChatGPT, programmeurs kan helpen bij hun werk](https://enrise.com/2023/01/hoe-ik-chatgpt-programmeurs-kan-helpen-bij-hun-werk/)
 <!-- POST-LIST:END -->
 
 ### Contact us
