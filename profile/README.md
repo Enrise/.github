@@ -36,11 +36,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Wat niemand je vertelt over toegankelijkheid](https://enrise.com/2023/03/wat-niemand-je-vertelt-over-toegankelijkheid/)
 - [Een kijkje op het scherm van een slechtziende](https://enrise.com/2023/03/een-kijkje-op-het-scherm-van-een-slechtziende/)
 - [AI en taalmodellen: de kracht en uitdagingen van kunstmatige intelligentie](https://enrise.com/2023/03/ai-en-taalmodellen/)
 - [Pak deze 6 kansen en investeer nu in je E-commerceplatform](https://enrise.com/2023/03/pak-deze-6-kansen-en-investeer-nu-in-je-e-commerceplatform/)
 - [Laravel 10 liefdevol live](https://enrise.com/2023/02/laravel-10-liefdevol-live/)
-- [Expo is de kers op de React Native taart](https://enrise.com/2023/02/expo-is-de-kers-op-de-react-native-taart/)
 <!-- POST-LIST:END -->
 
 ### Contact us
