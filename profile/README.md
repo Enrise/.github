@@ -28,7 +28,6 @@ Check out any of the jobs below and experience what it is like to never work for
 - [Backend developer - medior senior - 32-40 uur](https://jobs.enrise.com/backend-developer)
 - [Developer - senior - 32-40 uur](https://jobs.enrise.com/senior-developer)
 - [Laravel developer - medior senior - 32-40 uur](https://jobs.enrise.com/laravel-developer-2)
-- [Fullstack developer - medior - 36-40 uur](https://jobs.enrise.com/fullstack-developer-team-enigma)
 <!-- JOB-LIST:END -->
 
 ### Blog
