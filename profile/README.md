@@ -36,11 +36,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Enrise deed mee aan Girls’ Day 2023](https://enrise.com/2023/04/enrise-girls-day-2023/)
 - [Wat is een vendor lock-in?](https://enrise.com/2023/03/wat-is-een-vendor-lock-in/)
 - [Enrise in top 10 ‘enablers van digitale transformatie’ aldus DX300](https://enrise.com/2023/03/enrise-in-top-10-dx300/)
 - [Het is bijna Kerst! 4 vragen die je nu moet stellen voor zorgeloze, winstgevende feestdagen](https://enrise.com/2023/03/4-vragen-die-je-nu-moet-stellen-voor-zorgeloze-winstgevende-feestdagen/)
 - [Wat niemand je vertelt over toegankelijkheid](https://enrise.com/2023/03/wat-niemand-je-vertelt-over-toegankelijkheid/)
-- [Een kijkje op het scherm van een slechtziende](https://enrise.com/2023/03/een-kijkje-op-het-scherm-van-een-slechtziende/)
 <!-- POST-LIST:END -->
 
 ### Contact us
