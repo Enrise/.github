@@ -35,11 +35,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [5 smaken e-commerce platformen](https://enrise.com/2023/04/5-smaken-e-commerce-platformen/)
 - [2023 uitgave van de E-commerce Platform Keuzegids live!](https://enrise.com/2023/04/nu-beschikbaar-e-commerce-platform-keuzegids-2023/)
 - [Enrise Business Talks over de 3 meest gehoorde uitdagingen bij E-commerce bedrijven](https://enrise.com/2023/04/de-enrise-business-talks-over-keuzegids-ecommerce/)
 - [Enrise deed mee aan Girls’ Day 2023](https://enrise.com/2023/03/enrise-girls-day-2023/)
 - [Wat is een vendor lock-in?](https://enrise.com/2023/03/wat-is-een-vendor-lock-in/)
-- [Enrise in top 10 ‘enablers van digitale transformatie’ aldus DX300](https://enrise.com/2023/03/enrise-in-top-10-dx300/)
 <!-- POST-LIST:END -->
 
 ### Contact us
