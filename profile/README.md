@@ -28,6 +28,7 @@ Check out any of the jobs below and experience what it is like to never work for
 - [Backend developer - medior senior - 32-40 uur](https://jobs.enrise.com/backend-developer)
 - [Laravel developer - medior senior - 32-40 uur](https://jobs.enrise.com/laravel-developer-2)
 - [Administratief medewerker -  - 16-20 uur](https://jobs.enrise.com/administratief-medewerker)
+- [Product Owner - medior senior - 32-40 uur](https://jobs.enrise.com/product-owner-team-artisans/nl)
 <!-- JOB-LIST:END -->
 
 ### Blog
