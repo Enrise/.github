@@ -37,11 +37,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Van Product Owner naar Digital Product Manager: Een stap voorwaarts](https://enrise.com/2023/05/digital-product-manager/)
 - [Prompt engineering: de sleutel tot effectieve interactie met taalmodellen, zoals ChatGPT](https://enrise.com/2023/05/prompt-engineering/)
 - [Waarom is het kiezen van een nieuw platform zo moeilijk? PLUS: 5 principes en 10 criteria om het makkelijker te maken](https://enrise.com/2023/04/waarom-is-het-kiezen-van-een-nieuw-platform-zo-moeilijk/)
 - [Enrise Egghunt](https://enrise.com/2023/04/enrise-egghunt/)
 - [5 smaken e-commerce platformen](https://enrise.com/2023/04/5-smaken-e-commerce-platformen/)
-- [2023 uitgave van de E-commerce Platform Keuzegids live!](https://enrise.com/2023/04/nu-beschikbaar-e-commerce-platform-keuzegids-2023/)
 <!-- POST-LIST:END -->
 
 ### Contact us
