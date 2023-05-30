@@ -30,7 +30,6 @@ Check out any of the jobs below and experience what it is like to never work for
 - [Frontend developer - medior senior - 32-40 uur](https://jobs.enrise.com/frontend-developer-team-phoenix/nl)
 - [Fullstack developer - medior senior - 32-40 uur](https://jobs.enrise.com/fullstack-developer-team-quantum)
 - [Laravel developer - medior senior - 32-40 uur](https://jobs.enrise.com/laravel-developer-2)
-- [Administratief medewerker -  - 16-20 uur](https://jobs.enrise.com/administratief-medewerker)
 <!-- JOB-LIST:END -->
 
 ### Blog
