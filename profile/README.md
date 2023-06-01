@@ -37,11 +37,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [3 totaal verschillende design patterns voor React](https://enrise.com/2023/06/3-totaal-verschillende-design-patterns-voor-react/)
 - [Enrise Business Talks over het juiste CMS kiezen](https://enrise.com/2023/05/enrise-business-talks-over-het-juiste-cms-kiezen/)
 - [Van Product Owner naar Digital Product Manager: Een stap voorwaarts](https://enrise.com/2023/05/digital-product-manager/)
 - [Prompt engineering: de sleutel tot effectieve interactie met taalmodellen, zoals ChatGPT](https://enrise.com/2023/05/prompt-engineering/)
 - [Waarom is het kiezen van een nieuw platform zo moeilijk? PLUS: 5 principes en 10 criteria om het makkelijker te maken](https://enrise.com/2023/04/waarom-is-het-kiezen-van-een-nieuw-platform-zo-moeilijk/)
-- [Enrise Egghunt](https://enrise.com/2023/04/enrise-egghunt/)
 <!-- POST-LIST:END -->
 
 ### Contact us
