@@ -31,6 +31,7 @@ Check out any of the jobs below and experience what it is like to never work for
 - [Fullstack developer - medior senior - 32-40 uur](https://jobs.enrise.com/fullstack-developer-team-quantum)
 - [Product Owner - medior senior - 32-40 uur](jobs.enrise.com/product-owner-team-quantum)
 - [Laravel developer - medior senior - 32-40 uur](https://jobs.enrise.com/laravel-developer-2)
+- [Developer - medior senior - 32-40 uur](https://jobs.enrise.com/fullstack-developer-team-hubble/nl)
 <!-- JOB-LIST:END -->
 
 ### Blog
