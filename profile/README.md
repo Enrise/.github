@@ -39,11 +39,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Een nieuw CMS uitrollen? Dit zijn de 7 dingen waar je op moet letten](https://enrise.com/2023/06/een-nieuw-cms-uitrollen-dit-zijn-de-7-dingen-waar-je-op-moet-letten/)
 - [Best of breed versus best of suite: tijd voor harde, strategische keuzes](https://enrise.com/2023/06/best-of-breed-versus-best-of-suite/)
 - [Self-hosted, SaaS en hybride: wat betekenen ze en wat zijn de verschillen?](https://enrise.com/2023/06/self-hosted-saas-en-hybride-wat-betekenen-ze-en-wat-zijn-de-verschillen/)
 - [We choose to go to the moon](https://enrise.com/2023/06/we-choose-to-go-to-the-moon/)
 - [IT-transformatie: Hoe D2C de strategie van B2B bedrijven verandert](https://enrise.com/2023/06/it-transformatie-hoe-d2c-de-strategie-van-b2b-bedrijven-verandert/)
-- [Time to market: de belangrijkste KPI voor digitaal succes?](https://enrise.com/2023/06/time-to-market/)
 <!-- POST-LIST:END -->
 
 ### Contact us
