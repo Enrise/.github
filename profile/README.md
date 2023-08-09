@@ -36,7 +36,7 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
-- [Enrise AI: een nieuwe podcast over AI](https://enrise.com/2023/08/enrise-ai-een-nieuwe-podcast-over-ai/)
+- [Beluister hier onze nieuwe podcast: Enrise AI](https://enrise.com/2023/08/enrise-ai-een-nieuwe-podcast-over-ai/)
 - [Lost in translation? Vincent Hagen over de verschillende betekenissen van het begrip ‘meertaligheid’](https://enrise.com/2023/07/de-verschillende-betekenissen-van-het-begrip-meertaligheid/)
 - [Dutch E-commerce dinner 2023 groot succes](https://enrise.com/2023/06/dutch-e-commerce-dinner-2023-groot-succes/)
 - [Een nieuw CMS uitrollen? Dit zijn de 7 dingen waar je op moet letten](https://enrise.com/2023/06/een-nieuw-cms-uitrollen-dit-zijn-de-7-dingen-waar-je-op-moet-letten/)
