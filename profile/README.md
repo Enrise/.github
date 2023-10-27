@@ -30,6 +30,7 @@ Check out any of the jobs below and experience what it is like to never work for
 - [Developer - medior senior - 32-40 uur](https://jobs.enrise.com/fullstack-developer-team-hubble/nl)
 - [Product Owner - medior senior - 32-40 uur](https://jobs.enrise.com/product-owner-team-quantum-2/nl)
 - [Product Owner - medior senior - 32-40](https://jobs.enrise.com/product-owner-team-impact/nl)
+- [Backend/ Infra developer - medior senior - 32-40 uur](https://jobs.enrise.com/backend-infra-developer-team-impact/nl)
 <!-- JOB-LIST:END -->
 
 ### Blog
