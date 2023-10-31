@@ -24,7 +24,6 @@ For us, web development starts with independent advice. For our senior developer
 Check out any of the jobs below and experience what it is like to never work for a boss again (⌐■_■).
 
 <!-- JOB-LIST:START -->
-- [Backend developer - medior  senior - 32-40 uur](https://jobs.enrise.com/developer-team-craft)
 - [Backend developer - medior senior - 32-40 uur](https://jobs.enrise.com/backend-developer)
 - [Fullstack developer - medior senior - 32-40 uur](https://jobs.enrise.com/fullstack-developer-team-quantum)
 - [Developer - medior senior - 32-40 uur](https://jobs.enrise.com/fullstack-developer-team-hubble/nl)
