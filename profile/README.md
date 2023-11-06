@@ -35,11 +35,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Even geduld a.u.b? Hebben we niet… Boost daarom de snelheid van je website](https://enrise.com/2023/11/snelheid-van-je-applicatie/)
 - [Versla het informatiemonster!](https://enrise.com/2023/10/procesautomatisering-dit-zijn-de-voordelen/)
 - [Kunst in een klik: onze Photoshop AI-creatie](https://enrise.com/2023/10/photoshop-ai/)
 - [[Persbericht] Motivo trekt als volledig team in bij Enrise](https://enrise.com/2023/09/persbericht-motivo-trekt-als-volledig-team-in-bij-enrise/)
 - [Innovatie in je CMS: Steven de Vries over betere samenwerking tussen IT en Marketing](https://enrise.com/2023/09/innovatie-in-je-cms/)
-- [PHP Amersfoort viert 10-jarig bestaan bij Enrise](https://enrise.com/2023/09/php-amersfoort-viert-10-jarig-bestaan-bij-enrise/)
 <!-- POST-LIST:END -->
 
 ### Contact us
