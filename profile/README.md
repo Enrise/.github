@@ -36,11 +36,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [🔮 Blik op de toekomst: Web Design Trends 2024](https://enrise.com/2023/11/web-design-trends-2024/)
 - [Enrise op Meet Magento 2023](https://enrise.com/2023/11/enrise-op-meet-magento-2023/)
 - [Even geduld a.u.b? Hebben we niet… Boost daarom de snelheid van je website](https://enrise.com/2023/11/snelheid-van-je-applicatie/)
 - [Versla het informatiemonster!](https://enrise.com/2023/10/procesautomatisering-dit-zijn-de-voordelen/)
 - [Kunst in een klik: onze Photoshop AI-creatie](https://enrise.com/2023/10/photoshop-ai/)
-- [Enrise AI Podcast | Episode 5](https://enrise.com/2023/10/enrise-ai-podcast-episode-5/)
 <!-- POST-LIST:END -->
 
 ### Contact us
