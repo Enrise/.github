@@ -36,7 +36,7 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
-- [Bouw het juiste. Bouw het goed. Of bouw het vooral snel.](https://enrise.com/2023/12/maak-het-juiste-maak-het-goed-of-maak-het-snel/)
+- [Wat bedoelen jullie met Impact Driven Development?](https://enrise.com/2023/12/wat-bedoelen-jullie-met-impact-driven-development/)
 - [Simpel.nl wederom Beste &amp; Populairste website](https://enrise.com/2023/11/simpel-nl-wederom-beste-populairste-website-van-het-jaar/)
 - [🔮 Blik op de toekomst: Web Design Trends 2024](https://enrise.com/2023/11/web-design-trends-2024/)
 - [Enrise op Meet Magento 2023](https://enrise.com/2023/11/enrise-op-meet-magento-2023/)
