@@ -39,7 +39,7 @@ Read our latest blog posts below for a bit of open source Enrise inspiration:
 - [Wat bedoelen jullie met Impact Driven Development?](https://enrise.com/2023/12/wat-bedoelen-jullie-met-impact-driven-development/)
 - [Simpel.nl wederom Beste &amp; Populairste website](https://enrise.com/2023/11/simpel-nl-wederom-beste-populairste-website-van-het-jaar/)
 - [🔮 Blik op de toekomst: Web Design Trends 2024](https://enrise.com/2023/11/web-design-trends-2024/)
-- [Enrise op Meet Magento 2023](https://enrise.com/2023/11/enrise-op-meet-magento-2023/)
+- [After movie: Meet Magento 2023](https://enrise.com/2023/11/enrise-op-meet-magento-2023/)
 - [Enrise AI Podcast | Episode 6](https://enrise.com/2023/11/enrise-ai-podcast-episode-6/)
 <!-- POST-LIST:END -->
 
