@@ -30,6 +30,7 @@ Check out any of the jobs below and experience what it is like to never work for
 - [Junior backend developer - junior - 32-40 uur](https://jobs.enrise.com/junior-backend-developer-team-enigma-2/nl?token=705e07e7d734f3239135f9f457bbb422)
 - [Backend developer - medior senior - 32-40 uur](https://jobs.enrise.com/backend-developer-team-enigma/nl?token=7dff2b3adb1a1555ee5d26d0dbad1722)
 - [Kantine Medewerker -  - 15 uur](https://jobs.enrise.com/kantine-medewerker/nl)
+- [Backend developer - medior senior - 32-40 uur](https://jobs.enrise.com/backend-developer-team-motivo-2/nl)
 <!-- JOB-LIST:END -->
 
 ### Blog
