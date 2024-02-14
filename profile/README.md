@@ -37,11 +37,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
-- [De impact van de European Accessibility Act op Nederlandse webshops](https://enrise.com/2024/02/de-impact-van-de-european-accessibility-act-op-nederlandse-webshops/)
 - [Enrise op Webwinkel Vakdagen 2024](https://enrise.com/2024/01/enrise-op-webwinkel-vakdagen-2024/)
 - [Ontvang als eerste de 2024 editie van de E-commerce Platform Keuzegids](https://enrise.com/2024/01/ecommerce-platform-keuzegids-2024-wachtlijst/)
 - [Enrise AI Podcast | Episode 7](https://enrise.com/2024/01/enrise-ai-podcast-episode-7/)
 - [Zo kwam ons budget tot stand. Zonder managers of directie](https://enrise.com/2023/12/zo-kwam-ons-budget-2024-tot-stand-zonder-managers-of-directie/)
+- [Wat bedoelen jullie met Impact Driven Development?](https://enrise.com/2023/12/wat-bedoelen-jullie-met-impact-driven-development/)
 <!-- POST-LIST:END -->
 
 ### Contact us
