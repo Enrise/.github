@@ -36,11 +36,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Een nieuw e-commerceplatform: zo werken wij met klanten samen](https://enrise.com/2024/04/een-nieuw-e-commerceplatform-zo-werken-wij-met-klanten-samen/)
 - [Waarom is het kiezen van een nieuw platform zo moeilijk? PLUS: 5 principes en 12 criteria om het makkelijker te maken](https://enrise.com/2024/04/waarom-is-het-kiezen-van-een-nieuw-platform-zo-moeilijk/)
 - [Investeren in AI: kies je voor innovatie of kostenreductie?](https://enrise.com/2024/04/investeren-in-ai-kies-je-voor-innovatie-of-kostenreductie/)
 - [Download nu de E-commerce Platform Keuzegids 2024](https://enrise.com/2024/04/e-commerce-platform-keuzegids-2024/)
 - [Enrise AI Podcast | Episode 9](https://enrise.com/2024/04/enrise-ai-podcast-episode-9/)
-- [Enrise Egghunt 2024 weer van start!](https://enrise.com/2024/03/enrise-egghunt-2024-weer-van-start/)
 <!-- POST-LIST:END -->
 
 ### Contact us
