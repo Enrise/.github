@@ -36,11 +36,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Mob programming: Complexe logica bouwen in twee weken](https://enrise.com/2024/05/mob-programming-complexe-logica-bouwen-in-twee-weken/)
 - [Enrise AI Podcast #10](https://enrise.com/2024/05/enrise-ai-podcast-episode-10/)
 - [Enrise ook in 2024 weer in Emerce 100](https://enrise.com/2024/04/enrise-opnieuw-in-emerce-100/)
 - [Een nieuw e-commerceplatform: zo werken wij met klanten samen](https://enrise.com/2024/04/een-nieuw-e-commerceplatform-zo-werken-wij-met-klanten-samen/)
 - [Waarom is het kiezen van een nieuw platform zo moeilijk? PLUS: 5 principes en 12 criteria om het makkelijker te maken](https://enrise.com/2024/04/waarom-is-het-kiezen-van-een-nieuw-platform-zo-moeilijk/)
-- [Investeren in AI: kies je voor innovatie of kostenreductie?](https://enrise.com/2024/04/investeren-in-ai-kies-je-voor-innovatie-of-kostenreductie/)
 <!-- POST-LIST:END -->
 
 ### Contact us
