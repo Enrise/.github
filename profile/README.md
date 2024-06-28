@@ -35,11 +35,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Enrise AI Podcast #12](https://enrise.com/2024/06/enrise-ai-podcast-12/)
 - [Verwantenportaal: wachtverzachter in  ouderenzorg](https://enrise.com/2024/06/verwantenportaal-wachtverzachter-in-de-ouderenzorg/)
 - [After Movie: Dutch E-commerce Dinner 2024](https://enrise.com/2024/06/after-movie-dutch-e-commerce-dinner-2024/)
 - [Dit zijn de highlights van App.js Conf 2024](https://enrise.com/2024/06/app-js-conferentiebezoek-2024/)
 - [Enrise AI Podcast #11](https://enrise.com/2024/05/enrise-ai-podcast-11/)
-- [Simpel in Top 25 Klantvriendelijkste Bedrijven van Nederland 2024](https://enrise.com/2024/05/simpel-in-top-25-meest-klantvriendelijke-bedrijven-van-nederland-2024/)
 <!-- POST-LIST:END -->
 
 ### Contact us
