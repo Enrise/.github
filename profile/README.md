@@ -37,7 +37,7 @@ Read our latest blog posts below for a bit of open source Enrise inspiration:
 <!-- POST-LIST:START -->
 - [Het is alweer bijna Kerst! 4 vragen die je nu moet stellen voor zorgeloze, winstgevende feestdagen](https://enrise.com/2024/07/4-vragen-die-je-nu-moet-stellen-voor-zorgeloze-winstgevende-feestdagen/)
 - [Enrise AI Podcast #12](https://enrise.com/2024/06/enrise-ai-podcast-12/)
-- [Verwantenportaal: wachtverzachter in  ouderenzorg](https://enrise.com/2024/06/verwantenportaal-wachtverzachter-in-de-ouderenzorg/)
+- [Verwantenportaal: wachtverzachter in ouderenzorg](https://enrise.com/2024/06/verwantenportaal-wachtverzachter-in-de-ouderenzorg/)
 - [After Movie: Dutch E-commerce Dinner 2024](https://enrise.com/2024/06/after-movie-dutch-e-commerce-dinner-2024/)
 - [Dit zijn de highlights van App.js Conf 2024](https://enrise.com/2024/06/app-js-conferentiebezoek-2024/)
 <!-- POST-LIST:END -->
