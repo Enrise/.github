@@ -35,11 +35,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Een nieuw CMS uitrollen? Dit zijn de 7 dingen waar je op moet letten](https://enrise.com/2024/08/een-nieuw-cms-uitrollen-dit-zijn-de-7-dingen-waar-je-op-moet-letten/)
 - [Enrise AI Podcast #13](https://enrise.com/2024/07/enrise-ai-podcast-13/)
 - [Hoe Citymarketing Amersfoort samen met HU-studenten onze bistro ombouwde tot AI talkshow](https://enrise.com/2024/07/hoe-citymarketing-amersfoort-samen-met-hu-studenten-onze-bistro-ombouwde-tot-ai-talkshow/)
 - [Het is alweer bijna Kerst! 4 vragen die je nu moet stellen voor zorgeloze, winstgevende feestdagen](https://enrise.com/2024/07/4-vragen-die-je-nu-moet-stellen-voor-zorgeloze-winstgevende-feestdagen/)
 - [Enrise AI Podcast #12](https://enrise.com/2024/06/enrise-ai-podcast-12/)
-- [Verwantenportaal: wachtverzachter in ouderenzorg](https://enrise.com/2024/06/verwantenportaal-wachtverzachter-in-de-ouderenzorg/)
 <!-- POST-LIST:END -->
 
 ### Contact us
