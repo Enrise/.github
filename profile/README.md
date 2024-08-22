@@ -35,11 +35,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Hoe StreamWithLien met 16.000 online followers onze bistro op zijn kop zette](https://enrise.com/2024/08/hoe-streamwithlien-onze-bistro-verbouwde-tot-online-nightclub/)
 - [10 voordelen van Conversational AI chatbots](https://enrise.com/2024/08/10-voordelen-van-conversational-ai-chatbots-vs-traditionele-chatbots/)
 - [Een nieuw CMS-pakket kiezen? Dit zijn de 7 dingen waar je op moet letten](https://enrise.com/2024/08/een-nieuw-cms-pakket/)
 - [Enrise AI Podcast #13](https://enrise.com/2024/07/enrise-ai-podcast-13/)
 - [Hoe Citymarketing Amersfoort samen met HU-studenten onze bistro ombouwde tot AI talkshow](https://enrise.com/2024/07/hoe-citymarketing-amersfoort-samen-met-hu-studenten-onze-bistro-ombouwde-tot-ai-talkshow/)
-- [Het is alweer bijna Kerst! 4 vragen die je nu moet stellen voor zorgeloze, winstgevende feestdagen](https://enrise.com/2024/07/4-vragen-die-je-nu-moet-stellen-voor-zorgeloze-winstgevende-feestdagen/)
 <!-- POST-LIST:END -->
 
 ### Contact us
