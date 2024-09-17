@@ -35,7 +35,7 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
-- [Enrise AI Podcast #14](https://enrise.com/2024/09/enrise-ai-podcast-14/)
+- [Enrise AI Podcast #14 met als gast: Martin van Kranenburg](https://enrise.com/2024/09/enrise-ai-podcast-14/)
 - [Simpel wint ABN AMRO Webshop Award 2024-2025](https://enrise.com/2024/09/simpel-wint-abn-amro-webshop-award-2024-2025/)
 - [Hoe StreamWithLien met 16.000 online followers onze bistro op zijn kop zette](https://enrise.com/2024/08/hoe-streamwithlien-onze-bistro-verbouwde-tot-online-nightclub/)
 - [10 voordelen van Conversational AI chatbots](https://enrise.com/2024/08/10-voordelen-van-conversational-ai-chatbots-vs-traditionele-chatbots/)
