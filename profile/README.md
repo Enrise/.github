@@ -35,11 +35,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Enrise AI Podcast #15 met als gast: Frank van den Berg &lpar;Runnr.ai&rpar;](https://enrise.com/2024/10/enrise-ai-podcast-15-met-als-gast-frank-vanden-berg/)
 - [Enrise Poker Tool nu ook op Slack](https://enrise.com/2024/10/enrise-poker-tool-nu-ook-op-slack/)
 - [Enrise AI: Efficiëntie, hogere klanttevredenheid en nieuwe groeimogelijkheden](https://enrise.com/2024/09/enrise-ai-helpt-je-bedrijf-slimmer-en-beter-werken/)
 - [Enrise AI Podcast #14 met als gast: Martin van Kranenburg](https://enrise.com/2024/09/enrise-ai-podcast-14/)
 - [Simpel wint ABN AMRO Webshop Award 2024-2025](https://enrise.com/2024/09/simpel-wint-abn-amro-webshop-award-2024-2025/)
-- [Hoe StreamWithLien met 16.000 online followers onze bistro op zijn kop zette](https://enrise.com/2024/08/hoe-streamwithlien-onze-bistro-verbouwde-tot-online-nightclub/)
 <!-- POST-LIST:END -->
 
 ### Contact us
