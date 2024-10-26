@@ -35,11 +35,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Van product naar service: Hoe industriebedrijven duurzaam voorop kunnen lopen dankzij digitale innovatie](https://enrise.com/2024/10/van-product-naar-service-hoe-industriebedrijven-met-digitale-innovatie-voorop-kunnen-lopen-met-duurzaamheid/)
 - [Europese Toegankelijkheidswet in 2025: Doe de WCAG-check!](https://enrise.com/2024/10/check-hoe-toegankelijk-jouw-website-is/)
 - [Enrise AI Podcast #15 met als gast: Frank van den Berg &lpar;Runnr.ai&rpar;](https://enrise.com/2024/10/enrise-ai-podcast-15-met-als-gast-frank-vanden-berg/)
 - [Enrise Poker Tool nu ook op Slack](https://enrise.com/2024/10/enrise-poker-tool-nu-ook-op-slack/)
 - [Enrise AI: Efficiëntie, hogere klanttevredenheid en nieuwe groeimogelijkheden](https://enrise.com/2024/09/enrise-ai-helpt-je-bedrijf-slimmer-en-beter-werken/)
-- [Enrise AI Podcast #14 met als gast: Martin van Kranenburg](https://enrise.com/2024/09/enrise-ai-podcast-14/)
 <!-- POST-LIST:END -->
 
 ### Contact us
