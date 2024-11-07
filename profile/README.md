@@ -36,11 +36,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Enrise pakt podiumplek in FONK150 2024](https://enrise.com/2024/11/enrise-in-fonk150-best-agencies-2024/)
 - [Enrise viert 10 jaar technisch partnership met Simpel](https://enrise.com/2024/11/enrise-viert-10-jaar-technisch-partnership-met-simpel/)
 - [Metric Moose: de perfecte tool voor inzicht in financiële bedrijfsvoering](https://enrise.com/2024/10/finance-tool/)
 - [Van product naar service: Hoe industriebedrijven duurzaam voorop kunnen lopen dankzij digitale innovatie](https://enrise.com/2024/10/van-product-naar-service-hoe-industriebedrijven-met-digitale-innovatie-voorop-kunnen-lopen-met-duurzaamheid/)
 - [Europese Toegankelijkheidswet in 2025: Doe de WCAG-check!](https://enrise.com/2024/10/check-hoe-toegankelijk-jouw-website-is/)
-- [Enrise AI Podcast #15 met als gast: Frank van den Berg &lpar;Runnr.ai&rpar;](https://enrise.com/2024/10/enrise-ai-podcast-15-met-als-gast-frank-vanden-berg/)
 <!-- POST-LIST:END -->
 
 ### Contact us
