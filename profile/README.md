@@ -36,11 +36,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [AFTER MOVIE: Meet Magento 2024](https://enrise.com/2024/12/after-movie-meet-magento-2024/)
 - [Simpel ook in 2024 weer beste en populairste Telecom website in NL](https://enrise.com/2024/11/simpel-ook-in-2024-weer-beste-en-populairste-telecom-website-van-het-jaar/)
 - [Dichten was nog nooit zo makkelijk met Sinterklaasgedicht GPT](https://enrise.com/2024/11/dichten-was-nog-nooit-zo-makkelijk-met-sinterklaasgedicht-gpt/)
 - [Enrise pakt podiumplek in FONK150 2024](https://enrise.com/2024/11/enrise-in-fonk150-best-agencies-2024/)
 - [Enrise viert 10 jaar technisch partnership met Simpel](https://enrise.com/2024/11/enrise-viert-10-jaar-technisch-partnership-met-simpel/)
-- [Metric Moose: de perfecte tool voor inzicht in financiële bedrijfsvoering](https://enrise.com/2024/10/finance-tool/)
 <!-- POST-LIST:END -->
 
 ### Contact us
