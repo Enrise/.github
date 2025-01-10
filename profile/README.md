@@ -36,7 +36,7 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
-- [Meld je nu aan voor de Enrise Meetup 2025](https://enrise.com/2024/12/enrise-meetup-23-januari/)
+- [Reserveer nu de E-commerce Platform Keuzegids 2025](https://enrise.com/2025/01/reserveer-nu-de-e-commerce-platform-keuzegids-2025/)
 - [Webdesign in 2025: Innovatie, impact en inspiratie](https://enrise.com/2024/12/6-webdesign-trends-in-2025/)
 - [Waarom webtoegankelijkheid nú cruciaal is: een kijkje achter de schermen bij onze tester Anouk](https://enrise.com/2024/12/webtoegankelijkheid-2025-anouk-hermsen/)
 - [AFTER MOVIE: Meet Magento 2024](https://enrise.com/2024/12/after-movie-meet-magento-2024/)
