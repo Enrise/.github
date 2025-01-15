@@ -36,11 +36,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Drie perspectieven op replatforming: CEO, CTO en CMO aan zet](https://enrise.com/2025/01/drie-perspectieven-op-replatforming-ceo-cto-en-cmo-aan-zet/)
 - [Reserveer nu de E-commerce Platform Keuzegids 2025](https://enrise.com/2025/01/reserveer-nu-de-e-commerce-platform-keuzegids-2025/)
 - [Webdesign in 2025: Innovatie, impact en inspiratie](https://enrise.com/2024/12/6-webdesign-trends-in-2025/)
 - [Waarom webtoegankelijkheid nú cruciaal is: een kijkje achter de schermen bij onze tester Anouk](https://enrise.com/2024/12/webtoegankelijkheid-2025-anouk-hermsen/)
 - [AFTER MOVIE: Meet Magento 2024](https://enrise.com/2024/12/after-movie-meet-magento-2024/)
-- [Simpel ook in 2024 weer beste en populairste Telecom website in NL](https://enrise.com/2024/11/simpel-ook-in-2024-weer-beste-en-populairste-telecom-website-van-het-jaar/)
 <!-- POST-LIST:END -->
 
 ### Contact us
