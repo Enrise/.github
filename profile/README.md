@@ -38,11 +38,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Enrise breidt collectief uit met overname softwareontwikkelaar Weave uit Rotterdam](https://enrise.com/2025/02/enrise-breidt-collectief-uit-met-overname-softwareontwikkelaar-weave-uit-rotterdam/)
 - [Stabiele, veilige en schaalbare livegang van het nieuwe Heigo KMS](https://enrise.com/2025/02/stabiele-veilige-en-schaalbare-livegang-van-het-nieuwe-heigo-kms/)
 - [Slim opschalen: IT-capaciteit op maat voor jouw business](https://enrise.com/2025/01/slim-opschalen-it-capaciteit-op-maat-voor-jouw-business/)
 - [Drie perspectieven op replatforming: CEO, CTO en CMO aan zet](https://enrise.com/2025/01/drie-perspectieven-op-replatforming-ceo-cto-en-cmo-aan-zet/)
 - [Reserveer nu de E-commerce Platform Keuzegids 2025](https://enrise.com/2025/01/reserveer-nu-de-e-commerce-platform-keuzegids-2025/)
-- [Webdesign in 2025: Innovatie, impact en inspiratie](https://enrise.com/2024/12/6-webdesign-trends-in-2025/)
 <!-- POST-LIST:END -->
 
 ### Contact us
