@@ -26,6 +26,7 @@ Check out any of the jobs below and experience what it is like to never work for
 <!-- JOB-LIST:START -->
 - [Lead generatie marketeer - medior - 32-40](https://jobs.enrise.com/lead-generatie-marketeer/nl)
 - [Backend developer - medior  senior - 32-40 uur](https://jobs.enrise.com/developer-team-craft/nl)
+- [Fullstack developer - medior senior - 32-40 uur](https://jobs.enrise.com/fullstack-developer-team-quantum/nl)
 - [Backend developer - medior senior - 32-40 uur](https://jobs.enrise.com/backend-developer-team-enigma/nl?token=7dff2b3adb1a1555ee5d26d0dbad1722)
 - [Business Developer - medior - 32 - 40 uur](https://jobs.enrise.com/business-developer-team-motivo/nl)
 - [Product Owner - medior - 28-32 uur](https://jobs.enrise.com/product-owner-team-motivo/nl)
