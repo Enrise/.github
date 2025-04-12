@@ -39,11 +39,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Vibe coding vs. maatwerksoftware: snelheid ten koste van betrouwbaarheid?](https://enrise.com/2025/04/vibe-coding-vs-maatwerksoftware/)
 - [Lange rijen voor Martin van Kranenburg bij Enrise op Webwinkel Vakdagen](https://enrise.com/2025/04/signeersessie-martin-van-kranenburg-bij-enrise-webwinkel-vakdagen/)
 - [Webtoegankelijkheid: Waarom kleur, typografie en contrast de conversie van je website verhogen](https://enrise.com/2025/03/webtoegankelijkheid-waarom-kleur-typografie-en-contrast-de-conversie-van-je-website-verhogen/)
 - [Kom langs op de stand! Enrise aanwezig op Webwinkel Vakdagen](https://enrise.com/2025/02/enrise-ook-dit-jaar-aanwezig-op-webwinkel-vakdagen-2025/)
 - [Enrise breidt collectief uit met overname softwareontwikkelaar Weave uit Rotterdam](https://enrise.com/2025/02/enrise-breidt-collectief-uit-met-overname-softwareontwikkelaar-weave-uit-rotterdam/)
-- [Stabiele, veilige en schaalbare livegang van het nieuwe Heigo KMS](https://enrise.com/2025/02/stabiele-veilige-en-schaalbare-livegang-van-het-nieuwe-heigo-kms/)
 <!-- POST-LIST:END -->
 
 ### Contact us
