@@ -38,11 +38,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [PODCAST: Pim van der Linden op #WWV over de toekomst van E-commerce](https://enrise.com/2025/05/podcast-pim-van-der-linden-op-wwv-over-de-toekomst-van-e-commerce/)
 - [Thuiswinkel.org en Enrise organiseren AI Accelerator Programma voor ondernemers](https://enrise.com/2025/05/thuiswinkel-org-en-enrise-organiseren-ai-accelerator-programma-voor-e-commerce-ondernemers/)
 - [Enrise krijgt vijf sterren in 2025 editie van de Emerce 100](https://enrise.com/2025/04/enrise-krijgt-vijf-sterren-in-emerce-100-2025/)
 - [Download hier de E-commerce Platform Keuzegids 2025](https://enrise.com/2025/04/download-hier-de-e-commerce-keuzegids-2025/)
 - [Vibe coding vs. maatwerksoftware: snelheid ten koste van betrouwbaarheid?](https://enrise.com/2025/04/vibe-coding-vs-maatwerksoftware/)
-- [Lange rijen voor Martin van Kranenburg bij Enrise op Webwinkel Vakdagen](https://enrise.com/2025/04/signeersessie-martin-van-kranenburg-bij-enrise-webwinkel-vakdagen/)
 <!-- POST-LIST:END -->
 
 ### Contact us
