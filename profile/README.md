@@ -25,7 +25,6 @@ Check out any of the jobs below and experience what it is like to never work for
 
 <!-- JOB-LIST:START -->
 - [Backend developer - medior  senior - 32-40 uur](https://jobs.enrise.com/developer-team-craft/nl)
-- [Developer - junior - 32-40 uur](https://jobs.enrise.com/junior-developer-team-hubble/nl)
 - [Backend developer - medior - 32 - 40 uur](https://jobs.enrise.com/phoenix-backend-developer/nl)
 - [Fullstack developer - medior senior - 32-40 uur](https://jobs.enrise.com/fullstack-developer-team-quantum/nl)
 - [Backend developer - medior senior - 32-40 uur](https://jobs.enrise.com/backend-developer-team-enigma/nl)
