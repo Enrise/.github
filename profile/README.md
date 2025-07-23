@@ -38,11 +38,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Zo werken partnerships bij Enrise](https://enrise.com/2025/07/partnerships-bij-enrise/)
 - [Waarom we bij Enrise nu deze AI Service bouwen](https://enrise.com/2025/07/waarom-we-nu-deze-ai-service-bouwen/)
 - [Enrise Conference Day 2025 weer daverend succes](https://enrise.com/2025/06/enrise-conference-day-2025-weer-daverend-succes/)
 - [Bekijk hier de After Movie van het Dutch E-commerce Dinner 2025](https://enrise.com/2025/05/bekijk-hier-de-after-movie-van-het-dutch-e-commerce-dinner-2025/)
 - [PODCAST: Pim van der Linden op #WWV over de toekomst van E-commerce](https://enrise.com/2025/05/podcast-pim-van-der-linden-op-wwv-over-de-toekomst-van-e-commerce/)
-- [Thuiswinkel.org en Enrise organiseren AI Accelerator Programma voor ondernemers](https://enrise.com/2025/05/thuiswinkel-org-en-enrise-organiseren-ai-accelerator-programma-voor-e-commerce-ondernemers/)
 <!-- POST-LIST:END -->
 
 ### Contact us
