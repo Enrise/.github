@@ -28,6 +28,7 @@ Check out any of the jobs below and experience what it is like to never work for
 - [Frontend developer - medior - 32 - 40 uur](https://jobs.enrise.com/frontend-developer-team-phoenix-2/nl)
 - [Product Owner - medior senior - 32 - 40 uur](https://jobs.enrise.com/product-owner-team-enigma-2/nl)
 - [Backend developer - medior senior - 32-40 uur](https://jobs.enrise.com/backend-developer-team-enigma/nl)
+- [Junior backend developer - junior - 32-40 uur](https://jobs.enrise.com/junior-backend-developer-team-enigma/nl)
 - [Backend developer - senior - 32-40 uur](https://jobs.enrise.com/backend-developer-team-polaris/nl)
 <!-- JOB-LIST:END -->
 
