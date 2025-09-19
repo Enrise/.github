@@ -34,11 +34,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Samen innoveren met AI: de reis van de ShoppingTomorrow AI Accelerator Expertgroep](https://enrise.com/2025/09/samen-innoveren-met-ai-de-reis-van-de-shoppingtomorrow-ai-accelerator-expertgroep/)
 - [“Onafhankelijk en samen aan het stuur: de cultuur achter 25 jaar Enrise”](https://enrise.com/2025/09/25-jaar-enrise/)
 - [Headless CMS: drie perspectieven op maximale flexibiliteit](https://enrise.com/2025/08/headless-cms-drie-perspectieven-op-maximale-flexibiliteit/)
 - [Zo werken partnerships bij Enrise](https://enrise.com/2025/07/partnerships-bij-enrise/)
 - [Waarom we bij Enrise nu deze AI Service bouwen](https://enrise.com/2025/07/waarom-we-nu-deze-ai-service-bouwen/)
-- [Enrise Conference Day 2025 weer daverend succes](https://enrise.com/2025/06/enrise-conference-day-2025-weer-daverend-succes/)
 <!-- POST-LIST:END -->
 
 ### Contact us
