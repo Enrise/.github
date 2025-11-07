@@ -36,11 +36,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Van Discovery Phase naar partnership: Enrise en EQOM Group](https://enrise.com/2025/11/van-discovery-phase-naar-partnership-enrise-en-eqom-group/)
 - [De beste tech-experts voor jouw project&lpar;en&rpar;](https://enrise.com/2025/10/de-beste-tech-experts-voor-jouw-projecten/)
 - [Replatforming als strategische hefboom](https://enrise.com/2025/10/replatforming-als-strategische-hefboom/)
 - [Je IT-begroting omdenken als CFO: bepaalt de sales pitch het budget?](https://enrise.com/2025/10/it-begroting-cfo-sales-pitch-of-discovery-phase/)
 - [Nieuwe app Nationale Vacaturebank bij Emerce TV](https://enrise.com/2025/09/nieuwe-app-nationale-vacaturebank-bij-emerce-tv/)
-- [E-commerce ondernemer? Doe nu de PSP-check!](https://enrise.com/2025/09/psp-check-b2b/)
 <!-- POST-LIST:END -->
 
 ### Contact us
