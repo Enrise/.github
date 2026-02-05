@@ -36,10 +36,10 @@ Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
 - [Wat The Digital You Need betekent voor onze klanten](https://enrise.com/2026/01/the-digital-you-need-voor-klanten/)
+- [Enrise XXV. The whisky you need.](https://enrise.com/2025/12/enrise-25-jaar-jubileum-whisky/)
 - [Samen tegen eenzaamheid. Bouw mee aan de app van Sociale Gasten](https://enrise.com/2025/12/samen-tegen-eenzaamheid-bouw-mee-aan-de-app-van-sociale-gasten/)
 - [Dit zijn mijn 7 voorspellingen over AI in 2026](https://enrise.com/2025/12/ai-voorspellingen-2026/)
 - [Simpel voor 9e keer op rij beste &amp; populairste website van het jaar](https://enrise.com/2025/11/simpel-voor-9e-keer-website-jaar/)
-- [Enrise scoort 8,4 in FONK150 Best Agencies 2025](https://enrise.com/2025/11/enrise-scoort-84-in-fonk150-best-agencies-2025/)
 <!-- POST-LIST:END -->
 
 ### Contact us
