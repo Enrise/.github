@@ -35,11 +35,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Samen bouwen aan een groene toekomst: Enrise digital partner van Trees For All](https://enrise.com/2026/03/enrise-digitale-partner-trees-for-all/)
 - [Wat The Digital You Need betekent voor onze klanten](https://enrise.com/2026/01/the-digital-you-need-voor-klanten/)
 - [Enrise XXV. The whisky you need.](https://enrise.com/2025/12/enrise-25-jaar-jubileum-whisky/)
 - [Samen tegen eenzaamheid. Bouw mee aan de app van Sociale Gasten](https://enrise.com/2025/12/samen-tegen-eenzaamheid-bouw-mee-aan-de-app-van-sociale-gasten/)
 - [Dit zijn mijn 7 voorspellingen over AI in 2026](https://enrise.com/2025/12/ai-voorspellingen-2026/)
-- [Simpel voor 9e keer op rij beste &amp; populairste website van het jaar](https://enrise.com/2025/11/simpel-voor-9e-keer-website-jaar/)
 <!-- POST-LIST:END -->
 
 ### Contact us
