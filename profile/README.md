@@ -36,11 +36,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Enrise behaalt 5,5 ster in Emerce 100 voor beste e-business dienstverlening](https://enrise.com/2026/04/enrise-in-emerce-100-beste-ebusiness-dienstverlening/)
 - [4e editie Dutch E-commerce Dinner groot succes](https://enrise.com/2026/04/dutch-ecommerce-dinner-2026-succesvolle-4e-editie/)
 - [De invloed van AI op security &lpar;en hoe wij daar mee omgaan&rpar;](https://enrise.com/2026/04/ai-security-cyberdreigingen/)
 - [Probevo Schuldhulpverlening genomineerd voor Dutch Interactive Awards](https://enrise.com/2026/04/probevo-social-flow-ai-dutch-interactive-awar/)
 - [Goede digitale partners bouwen software die zich aanpast aan jou](https://enrise.com/2026/03/malleable-software-flexibiliteit-voor-toekomstbestendige-organisaties/)
-- [Samen bouwen aan een groene toekomst: Enrise digital partner van Trees For All](https://enrise.com/2026/03/enrise-digitale-partner-trees-for-all/)
 <!-- POST-LIST:END -->
 
 ### Contact us
