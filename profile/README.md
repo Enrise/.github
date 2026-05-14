@@ -29,7 +29,6 @@ Check out any of the jobs below and experience what it is like to never work for
 - [Frontend developer - medior senior - 32 - 40 uur](https://jobs.enrise.com/frontend-developer-team-quantum/nl)
 - [Product Owner - senior - 32-40 uur](https://jobs.enrise.com/product-owner-team-phoenix/nl)
 - [Product Owner - senior - 32-40 uur](https://jobs.enrise.com/product-owner-team-quantum-3/nl)
-- [Inhouse techrecruiter - medior senior - 28-36 uur](https://jobs.enrise.com/inhouse-techrecruiter-team-allotment/nl)
 <!-- JOB-LIST:END -->
 
 ### Blog
