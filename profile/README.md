@@ -28,7 +28,6 @@ Check out any of the jobs below and experience what it is like to never work for
 - [Junior developer - junior - 32 - 40 uur](https://jobs.enrise.com/junior-developer-team-nexus/nl)
 - [Frontend developer - medior senior - 32 - 40 uur](https://jobs.enrise.com/frontend-developer-team-quantum/nl)
 - [Product Owner - senior - 32-40 uur](https://jobs.enrise.com/product-owner-team-phoenix/nl)
-- [Product Owner - senior - 32-40 uur](https://jobs.enrise.com/product-owner-team-quantum-3/nl)
 <!-- JOB-LIST:END -->
 
 ### Blog
