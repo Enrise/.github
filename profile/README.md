@@ -24,7 +24,7 @@ For us, web development starts with independent advice. For our senior developer
 Check out any of the jobs below and experience what it is like to never work for a boss again (⌐■_■).
 
 <!-- JOB-LIST:START -->
-- [Fullstack developer - medior  senior - 32-40 uur](https://jobs.enrise.com/developer-team-nexus/nl)
+- [Fullstack developer &lpar;voor meerdere teams&rpar; - medior  senior - 32-40 uur](https://jobs.enrise.com/developer-team-nexus/nl)
 - [Junior developer - junior - 32 - 40 uur](https://jobs.enrise.com/junior-developer-team-nexus/nl)
 - [Frontend developer - medior senior - 32 - 40 uur](https://jobs.enrise.com/frontend-developer-team-quantum/nl)
 - [Digital Product Manager &lpar;voor meerdere teams&rpar; - medior/senior - 32 - 40 uur](https://jobs.enrise.com/digital-product-manager/nl)
