@@ -35,11 +35,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Simpel scoort hoog in Dutch NPS Monitor Mobile 2026](https://enrise.com/2026/07/simpel-scoort-hoog-in-dutch-nps-monitor-mobile-2026/)
 - [Eerste editie AI Conference Day zeer geslaagd](https://enrise.com/2026/06/eerste-editie-ai-conference-day-zeer-geslaagd/)
 - [Cbw komt eraan. Ben jij klaar voor de nieuwe cybersecurity-verplichtingen?](https://enrise.com/2026/05/cbw-komt-eraan-ben-jij-klaar-voor-de-nieuwe-cybersecurity-verplichtingen/)
 - [Digital Product Manager: brug tussen ontwikkelteams en de business](https://enrise.com/2026/05/digital-product-manager/)
 - [Van complexiteit naar het maken van heldere keuzes: De strategische IT van Enrise](https://enrise.com/2026/05/strategische-it-van-complexiteit-naar-helderheid/)
-- [Enrise behaalt 5,5 ster in Emerce 100 voor beste e-business dienstverlening](https://enrise.com/2026/04/enrise-in-emerce-100-beste-ebusiness-dienstverlening/)
 <!-- POST-LIST:END -->
 
 ### Contact us
