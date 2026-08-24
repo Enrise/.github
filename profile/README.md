@@ -38,7 +38,7 @@ Read our latest blog posts below for a bit of open source Enrise inspiration:
 - [Mafia casino Bonus von der Aktivierung bis zur Auszahlung](https://enrise.com/2026/08/mafia-casino-bonus-von-der-aktivierung-bis-zur-auszahlung/)
 - [Evolve Casino Spielangebot mit Fakten zu Lobby und Studios](https://enrise.com/2026/08/evolve-casino-spielangebot-mit-fakten-zu-lobby-und-studios-2/)
 - [Evolve Casino Spielangebot mit Fakten zu Lobby und Studios](https://enrise.com/2026/08/evolve-casino-spielangebot-mit-fakten-zu-lobby-und-studios/)
-- [AI in softwareontwikkeling: zo bouwt Enrise sneller betere webshops](https://enrise.com/2026/07/ai-in-softwareontwikkeling-zo-bouwt-enrise-sneller-betere-webshops/)
+- [Spingranny Spielbibliothek im praktischen Überblick](https://enrise.com/2026/08/spingranny-spielbibliothek-im-praktischen-uberblick/)
 <!-- POST-LIST:END -->
 
 ### Contact us
