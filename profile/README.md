@@ -34,11 +34,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
-- [AI in softwareontwikkeling: zo bouwt Enrise sneller betere webshops](https://enrise.com/2026/07/ai-in-softwareontwikkeling-zo-bouwt-enrise-sneller-betere-webshops/)
-- [Jasper de Rooij &lpar;ex-Simpel&rpar; kiest Enrise als digital partner voor Makkelijk](https://enrise.com/2026/07/jasper-de-rooij-ex-simpel-kiest-enrise-als-digital-partner-voor-makkelijk/)
-- [Simpel scoort hoog in Dutch NPS Monitor Mobile 2026](https://enrise.com/2026/07/simpel-scoort-hoog-in-dutch-nps-monitor-mobile-2026/)
-- [Eerste editie AI Conference Day zeer geslaagd](https://enrise.com/2026/06/eerste-editie-ai-conference-day-zeer-geslaagd/)
-- [Cbw komt eraan. Ben jij klaar voor de nieuwe cybersecurity-verplichtingen?](https://enrise.com/2026/05/cbw-komt-eraan-ben-jij-klaar-voor-de-nieuwe-cybersecurity-verplichtingen/)
+- [Ποιες μέθοδοι κατάθεσης είναι διαθέσιμες στο Monsterwin;: κανόνες, δεδομένα και σημεία ελέγχου](https://enrise.com/2026/08/ποιες-μέθοδοι-κατάθεσης-είναι-διαθέσ/)
+- [Πώς να ξεκινήσετε να παίζετε μετά την εγγραφή στο Monsterwin: με στοιχεία και πρακτικούς ελέγχους](https://enrise.com/2026/08/πώς-να-ξεκινήσετε-να-παίζετε-μετά-την-ε/)
+- [Monsterwin: οδηγός για την ποιότητα της αρχικής διαδρομής ως την πρώτη παρτίδα](https://enrise.com/2026/08/monsterwin-οδηγός-για-την-ποιότητα-της-αρχικής/)
+- [Monsterwin: οδηγός για την ελάχιστη κατάθεση και τα κριτήρια επιλεξιμότητας](https://enrise.com/2026/08/monsterwin-οδηγός-για-την-ελάχιστη-κατάθεση-κα/)
+- [Προσφέρει το Bassbet λοταρίες, loot boxes ή ενότητες παιχνιδιών με έπαθλα;](https://enrise.com/2026/08/προσφέρει-το-bassbet-λοταρίες-loot-boxes-ή-ενότητες-π/)
 <!-- POST-LIST:END -->
 
 ### Contact us
