@@ -32,11 +32,11 @@ Check out any of the jobs below and experience what it is like to never work for
 Read our latest blog posts below for a bit of open source Enrise inspiration:
 
 <!-- POST-LIST:START -->
+- [Je AI-agent is net zo goed als je kennisbank](https://enrise.com/2026/11/je-ai-agent-is-net-zo-goed-als-je-kennisbank/)
 - [Simpel voor 10e keer op rij beste én populairste website van Nederland](https://enrise.com/2026/11/slug-simpel-10-keer-website-van-het-jaar/)
 - [Developers Enrise pakken podium op Demo Thursday](https://enrise.com/2026/10/developers-enrise-pakken-podium-op-demo-thursday/)
 - [AI in softwareontwikkeling: zo bouwt Enrise sneller betere webshops](https://enrise.com/2026/07/ai-in-softwareontwikkeling-zo-bouwt-enrise-sneller-betere-webshops/)
 - [Jasper de Rooij &lpar;ex-Simpel&rpar; kiest Enrise als digital partner voor Makkelijk](https://enrise.com/2026/07/jasper-de-rooij-ex-simpel-kiest-enrise-als-digital-partner-voor-makkelijk/)
-- [Simpel scoort hoog in Dutch NPS Monitor Mobile 2026](https://enrise.com/2026/07/simpel-scoort-hoog-in-dutch-nps-monitor-mobile-2026/)
 <!-- POST-LIST:END -->
 
 ### Contact us
